@@ -1,0 +1,26 @@
+{
+  "author": "Albert Engelbrecht <dropped.on.japan@gmail.com>",
+  "name": "Incursion_Fleet_Man",
+  "description": "Incursion Fleet Helper",
+  "version": "0.0.0",
+  "homepage": "https://github.com/droppedonjapan/Incursion_Fleet_Man",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/droppedonjapan/Incursion_Fleet_Man.git"
+  },
+  "main": "/server.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "async": "*",
+    "underscore": "*",
+    "dispatch": "*",
+    "connect": "*"
+    },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
